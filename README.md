@@ -5,6 +5,9 @@ I'm Edgar Meva'a  , a Datascientist that really loves data an Artificial Intelli
 - 🌱 I’m currently learning machine translation and model deployment techniques to reduce inference time
 - 💬 Ask me about ...
 - 📫 How to reach me:
+    LinkedIn :
+    Gmail: mevaed4@gmail.com
+
 
 <!--
 **Edgar454/Edgar454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
