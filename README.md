@@ -2,6 +2,7 @@
 I'm Edgar Meva'a  , a Datascientist that really loves data an Artificial Intelligence . I'm interested in various domain most notably Machine learning ,  NLP with LLMS , Computer vision . But i also appreciate to play sometimes with other technologies such as Blockchain and RPA
 
 - 🔭 I’m currently working on an application to translate Dyula , a west african language to french using AI
+  <!--
 - 🌱 I’m currently learning machine translation and model deployment techniques to reduce inference time
 - 💬 Ask me about ...
 - 📫 How to reach me:
@@ -9,7 +10,7 @@ I'm Edgar Meva'a  , a Datascientist that really loves data an Artificial Intelli
     Gmail: mevaed4@gmail.com
 
 
-<!--
+
 **Edgar454/Edgar454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
