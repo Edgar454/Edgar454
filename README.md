@@ -7,6 +7,7 @@ Hi, I'm Edgar Meva'a, a Data Scientist driven by curiosity, a deep love for data
     Kaggle: [Edgar Meva'a](https://www.kaggle.com/edgarmeva)<br/>
   
 - 🔭 I’m currently working on an application to translate Dyula , a west african language to french using AI
+  
   <!-- Github stats taken from anuraghazra/github-readme-stats -->
   ![Edgar MEVA'A's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgar454&show_icons=true&theme=merko)
   <!--
