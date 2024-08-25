@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Edgar Meva'a  , a Datascientist that really loves data an Artificial Intelligence . I'm interested in various domain most notably Machine learning ,  NLP with LLMS , Computer vision . But i also appreciate to play sometimes with other technologies such as Blockchain and RPA
+Hi, I'm Edgar Meva'a, a Data Scientist driven by curiosity, a deep love for data, and the limitless possibilities of Artificial Intelligence. I’m passionate about exploring and optimizing deep learning models to tackle diverse use cases and empower others in their work. My interests span Machine Learning, Natural Language Processing, Large Language Models, and Computer Vision. I also enjoy exploring and combining AI with technologies like Blockchain and RPA.
 
 - 🔭 I’m currently working on an application to translate Dyula , a west african language to french using AI
   <!--
@@ -8,6 +8,7 @@ I'm Edgar Meva'a  , a Datascientist that really loves data an Artificial Intelli
 - 📫 How to reach me:
     LinkedIn :
     Gmail: mevaed4@gmail.com
+    Kaggle: [Edgar Meva'a](https://www.kaggle.com/edgarmeva)
 
 
 
