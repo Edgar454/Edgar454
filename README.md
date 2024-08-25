@@ -1,11 +1,11 @@
 # 💫 About Me:
-## Hi there 👋<br>Hi, I'm Edgar Meva'a, a Data Scientist driven by curiosity, a deep love for data, and the limitless possibilities of Artificial Intelligence. I’m passionate about exploring and optimizing deep learning models to tackle diverse use cases and empower others in their work. My interests span Machine Learning, Natural Language Processing, Large Language Models, and Computer Vision. I also enjoy exploring and combining AI with technologies like Blockchain and RPA.
+
+Hi there 👋<br>Hi, I'm Edgar Meva'a, a Data Scientist driven by curiosity, a deep love for data, and the limitless possibilities of Artificial Intelligence. I’m passionate about exploring and optimizing deep learning models to tackle diverse use cases and empower others in their work. My interests span Machine Learning, Natural Language Processing, Large Language Models, and Computer Vision. I also enjoy exploring and combining AI with technologies like Blockchain and RPA.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edgar-peggy-meva-a-16a93a267) 
-[![Kaggle](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.kaggle.com/edgarmeva)) 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
+![edgar meva](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{edgarmeva})
 
 
 # 💻 Tech Stack:
