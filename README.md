@@ -25,7 +25,7 @@ Feel free to explore my projects, and don't hesitate to connect!
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Edgar454&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Edgar454&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Edgar454&layout=compact&theme=tokyonight&border_radius=10&hide=css,html,Jupyter%20Notebook" alt="Edgar's Top Languages" height="180" />
 </p>
 
 ### ✍️ Random Dev Quote
