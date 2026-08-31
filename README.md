@@ -1,4 +1,4 @@
-# 💫 Hi there 👋
+## 💫 Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Edgar454\&color=fb4362)
 
@@ -16,7 +16,7 @@ Feel free to explore my projects, and don't hesitate to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/edgar-peggy-meva-a-16a93a267/)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square\&logo=python\&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
@@ -29,7 +29,7 @@ Feel free to explore my projects, and don't hesitate to connect!
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Edgar454&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" height="180" />
