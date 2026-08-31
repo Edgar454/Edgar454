@@ -2,7 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Edgar454&color=fb4362)
 
-I'm Edgar Meva'a, a Data Scientist driven by curiosity, a deep love for data, and the limitless possibilities of Artificial Intelligence. I’m passionate about exploring and optimizing deep learning models to tackle diverse use cases and empower others in their work. My interests span Machine Learning, Natural Language Processing, Large Language Models, and Computer Vision. I also enjoy exploring and combining AI with technologies like Blockchain and RPA.
+Welcome to my GitHub!
+
+Hey! I'm Edgar, a Data Engineer passionate about data, technology, sports, and anime.
+My work primarily revolves around Data Engineering and Cloud, but my interests and experience span across several areas, including Machine Learning, Deep Learning, Computer Vision, DevOps, and Cloud Engineering.
+I enjoy building things, learning new technologies, and figuring out how different pieces of the tech stack can work together to solve real-world problems.
+
+Feel free to explore my projects, and don't hesitate to connect!
 
 
 ## 🌐 Socials:
