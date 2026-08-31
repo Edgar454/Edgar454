@@ -23,6 +23,11 @@ Feel free to explore my projects, and don't hesitate to connect!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Edgar454&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar454&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Edgar454&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Edgar454&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
