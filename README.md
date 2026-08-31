@@ -41,6 +41,8 @@ Feel free to explore my projects, and don't hesitate to connect!
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
