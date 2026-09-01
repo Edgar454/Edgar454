@@ -5,9 +5,7 @@
 Welcome to my GitHub!
 
 Hey! I'm Edgar, a **Data Engineer** passionate about data, technology, sports, and anime.
-
 My work primarily revolves around **Data Engineering and Cloud**, but my interests and experience span across **Machine Learning, Deep Learning, Computer Vision, DevOps, and Cloud Engineering**.
-
 I enjoy building things, learning by doing, and figuring out how different pieces of the tech stack can work together to solve real-world problems.
 
 Feel free to explore my projects, and don't hesitate to connect!
